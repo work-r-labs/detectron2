@@ -1,3 +1,9 @@
+Forked so that we can
+
+```bash
+uv pip install git+https://github.com/work-r-labs/detectron2.git
+```
+
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
 
 <a href="https://opensource.facebook.com/support-ukraine">
