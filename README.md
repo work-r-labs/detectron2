@@ -1,8 +1,10 @@
 Forked so that we can
 
 ```bash
-uv pip install git+https://github.com/work-r-labs/detectron2.git
+uv pip install git+https://github.com/work-r-labs/detectron2.git --no-build isolation
 ```
+
+also you need gcc12
 
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
 
